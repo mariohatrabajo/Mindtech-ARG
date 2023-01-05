@@ -1,0 +1,91 @@
+D:\io\Visual Studio Workspace\App ARG\bin\Debug\App ARG.exe.config
+D:\io\Visual Studio Workspace\App ARG\bin\Debug\App ARG.exe
+D:\io\Visual Studio Workspace\App ARG\bin\Debug\App ARG.pdb
+D:\io\Visual Studio Workspace\App ARG\obj\Debug\App ARG.csproj.AssemblyReference.cache
+D:\io\Visual Studio Workspace\App ARG\obj\Debug\App_ARG.Properties.Resources.resources
+D:\io\Visual Studio Workspace\App ARG\obj\Debug\App ARG.csproj.GenerateResource.cache
+D:\io\Visual Studio Workspace\App ARG\obj\Debug\App ARG.csproj.CoreCompileInputs.cache
+D:\io\Visual Studio Workspace\App ARG\obj\Debug\App ARG.exe
+D:\io\Visual Studio Workspace\App ARG\obj\Debug\App ARG.pdb
+D:\io\Visual Studio Workspace\App ARG\bin\Debug\BouncyCastle.Crypto.dll
+D:\io\Visual Studio Workspace\App ARG\bin\Debug\ControlesWinform.dll
+D:\io\Visual Studio Workspace\App ARG\bin\Debug\Google.Protobuf.dll
+D:\io\Visual Studio Workspace\App ARG\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\io\Visual Studio Workspace\App ARG\bin\Debug\Ubiety.Dns.Core.dll
+D:\io\Visual Studio Workspace\App ARG\bin\Debug\ZstdNet.dll
+D:\io\Visual Studio Workspace\App ARG\bin\Debug\System.Memory.dll
+D:\io\Visual Studio Workspace\App ARG\bin\Debug\K4os.Compression.LZ4.dll
+D:\io\Visual Studio Workspace\App ARG\bin\Debug\K4os.Hash.xxHash.dll
+D:\io\Visual Studio Workspace\App ARG\bin\Debug\System.Buffers.dll
+D:\io\Visual Studio Workspace\App ARG\bin\Debug\System.Numerics.Vectors.dll
+D:\io\Visual Studio Workspace\App ARG\bin\Debug\ControlesWinform.pdb
+D:\io\Visual Studio Workspace\App ARG\bin\Debug\MySql.Data.xml
+D:\io\Visual Studio Workspace\App ARG\obj\Debug\App ARG.exe.config
+D:\io\Visual Studio Workspace\App ARG\obj\Debug\App_ARG.Gestion.resources
+D:\io\Visual Studio Workspace\App ARG\obj\Debug\App_ARG.VentanaPpal.resources
+D:\io\Visual Studio Workspace\App ARG\obj\Debug\App ARG.csproj.CopyComplete
+D:\io\Visual Studio Workspace\App ARG\obj\Debug\App_ARG.DatosEmpleado.resources
+D:\io\Visual Studio Workspace\App ARG\obj\Debug\App_ARG.LoreTexto.resources
+D:\io\Visual Studio Workspace\App ARG\obj\Debug\App_ARG.LoreImagen.resources
+D:\io\Visual Studio Workspace\App ARG\bin\Debug\MySql.Data.dll
+D:\io\Visual Studio Workspace\App ARG\obj\Debug\App_ARG.Informe.resources
+D:\io\Visual Studio Workspace\MindTech App\App ARG\bin\Debug\App ARG.exe.config
+D:\io\Visual Studio Workspace\MindTech App\App ARG\bin\Debug\App ARG.exe
+D:\io\Visual Studio Workspace\MindTech App\App ARG\bin\Debug\App ARG.pdb
+D:\io\Visual Studio Workspace\MindTech App\App ARG\bin\Debug\System.Memory.dll
+D:\io\Visual Studio Workspace\MindTech App\App ARG\bin\Debug\K4os.Compression.LZ4.dll
+D:\io\Visual Studio Workspace\MindTech App\App ARG\bin\Debug\K4os.Hash.xxHash.dll
+D:\io\Visual Studio Workspace\MindTech App\App ARG\bin\Debug\System.Buffers.dll
+D:\io\Visual Studio Workspace\MindTech App\App ARG\bin\Debug\System.Numerics.Vectors.dll
+D:\io\Visual Studio Workspace\MindTech App\App ARG\bin\Debug\ControlesWinform.pdb
+D:\io\Visual Studio Workspace\MindTech App\App ARG\bin\Debug\MySql.Data.xml
+D:\io\Visual Studio Workspace\MindTech App\App ARG\obj\Debug\App ARG.exe.config
+D:\io\Visual Studio Workspace\MindTech App\App ARG\obj\Debug\App_ARG.DatosEmpleado.resources
+D:\io\Visual Studio Workspace\MindTech App\App ARG\obj\Debug\App_ARG.Gestion.resources
+D:\io\Visual Studio Workspace\MindTech App\App ARG\obj\Debug\App_ARG.Informe.resources
+D:\io\Visual Studio Workspace\MindTech App\App ARG\obj\Debug\App_ARG.LoreImagen.resources
+D:\io\Visual Studio Workspace\MindTech App\App ARG\obj\Debug\App_ARG.LoreTexto.resources
+D:\io\Visual Studio Workspace\MindTech App\App ARG\obj\Debug\App_ARG.VentanaPpal.resources
+D:\io\Visual Studio Workspace\MindTech App\App ARG\obj\Debug\App_ARG.Properties.Resources.resources
+D:\io\Visual Studio Workspace\MindTech App\App ARG\obj\Debug\App ARG.csproj.GenerateResource.cache
+D:\io\Visual Studio Workspace\MindTech App\App ARG\obj\Debug\App ARG.csproj.CoreCompileInputs.cache
+D:\io\Visual Studio Workspace\MindTech App\App ARG\obj\Debug\App ARG.csproj.CopyComplete
+D:\io\Visual Studio Workspace\MindTech App\App ARG\obj\Debug\App ARG.exe
+D:\io\Visual Studio Workspace\MindTech App\App ARG\obj\Debug\App ARG.pdb
+E:\io\Visual Studio Workspace\MindTech App\App ARG\bin\Debug\App ARG.exe.config
+E:\io\Visual Studio Workspace\MindTech App\App ARG\bin\Debug\App ARG.exe
+E:\io\Visual Studio Workspace\MindTech App\App ARG\bin\Debug\App ARG.pdb
+E:\io\Visual Studio Workspace\MindTech App\App ARG\bin\Debug\BouncyCastle.Crypto.dll
+E:\io\Visual Studio Workspace\MindTech App\App ARG\bin\Debug\Google.Protobuf.dll
+E:\io\Visual Studio Workspace\MindTech App\App ARG\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\io\Visual Studio Workspace\MindTech App\App ARG\bin\Debug\Ubiety.Dns.Core.dll
+E:\io\Visual Studio Workspace\MindTech App\App ARG\bin\Debug\ZstdNet.dll
+E:\io\Visual Studio Workspace\MindTech App\App ARG\bin\Debug\System.Memory.dll
+E:\io\Visual Studio Workspace\MindTech App\App ARG\bin\Debug\K4os.Compression.LZ4.dll
+E:\io\Visual Studio Workspace\MindTech App\App ARG\bin\Debug\K4os.Hash.xxHash.dll
+E:\io\Visual Studio Workspace\MindTech App\App ARG\bin\Debug\System.Buffers.dll
+E:\io\Visual Studio Workspace\MindTech App\App ARG\bin\Debug\System.Numerics.Vectors.dll
+E:\io\Visual Studio Workspace\MindTech App\App ARG\bin\Debug\ControlesWinform.pdb
+E:\io\Visual Studio Workspace\MindTech App\App ARG\bin\Debug\MySql.Data.xml
+E:\io\Visual Studio Workspace\MindTech App\App ARG\obj\Debug\App ARG.csproj.AssemblyReference.cache
+E:\io\Visual Studio Workspace\MindTech App\App ARG\obj\Debug\App ARG.exe.config
+E:\io\Visual Studio Workspace\MindTech App\App ARG\obj\Debug\App_ARG.DatosEmpleado.resources
+E:\io\Visual Studio Workspace\MindTech App\App ARG\obj\Debug\App_ARG.Gestion.resources
+E:\io\Visual Studio Workspace\MindTech App\App ARG\obj\Debug\App_ARG.Informe.resources
+E:\io\Visual Studio Workspace\MindTech App\App ARG\obj\Debug\App_ARG.LoreImagen.resources
+E:\io\Visual Studio Workspace\MindTech App\App ARG\obj\Debug\App_ARG.LoreTexto.resources
+E:\io\Visual Studio Workspace\MindTech App\App ARG\obj\Debug\App_ARG.VentanaPpal.resources
+E:\io\Visual Studio Workspace\MindTech App\App ARG\obj\Debug\App_ARG.Properties.Resources.resources
+E:\io\Visual Studio Workspace\MindTech App\App ARG\obj\Debug\App ARG.csproj.GenerateResource.cache
+E:\io\Visual Studio Workspace\MindTech App\App ARG\obj\Debug\App ARG.csproj.CoreCompileInputs.cache
+E:\io\Visual Studio Workspace\MindTech App\App ARG\obj\Debug\App ARG.csproj.CopyComplete
+E:\io\Visual Studio Workspace\MindTech App\App ARG\obj\Debug\App ARG.exe
+E:\io\Visual Studio Workspace\MindTech App\App ARG\obj\Debug\App ARG.pdb
+D:\io\Visual Studio Workspace\MindTech App\App ARG\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\io\Visual Studio Workspace\MindTech App\App ARG\bin\Debug\BouncyCastle.Crypto.dll
+D:\io\Visual Studio Workspace\MindTech App\App ARG\bin\Debug\Google.Protobuf.dll
+D:\io\Visual Studio Workspace\MindTech App\App ARG\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\io\Visual Studio Workspace\MindTech App\App ARG\bin\Debug\MySql.Data.dll
+D:\io\Visual Studio Workspace\MindTech App\App ARG\bin\Debug\Ubiety.Dns.Core.dll
+D:\io\Visual Studio Workspace\MindTech App\App ARG\bin\Debug\ZstdNet.dll
+D:\io\Visual Studio Workspace\MindTech App\App ARG\obj\Debug\App ARG.csproj.AssemblyReference.cache
